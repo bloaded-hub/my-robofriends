@@ -22,6 +22,5 @@ It uses CSS to make a background linear gradient.
    * Tachyons for CSS 
    
 # Acknowledgments
-
-    Thanks to Andrei Neagoie, https://github.com/aneagoie, his course, https://www.udemy.com/the-complete-web-developer-zero-to-mastery/.
-    Also to the Z2M Discord channel for providing additional support.
+* Thanks to Andrei Neagoie, https://github.com/aneagoie, and his course, https://www.udemy.com/the-complete-web-developer-zero-to-mastery/.
+* Also to the Z2M Discord channel for providing additional support.
