@@ -1,7 +1,8 @@
 # Robofriends
-Robofriends is a frontend only project, using the create-react-app as a starting point.
+Robofriends is a responsive, frontend only project, using the create-react-app as a starting point.
 It uses CSS to make a background linear gradient.
 
+A user can filter the list of robots using the searchbar and the list updates instantly.
 
 
 # See it in action
