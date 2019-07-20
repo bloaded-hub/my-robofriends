@@ -1,5 +1,5 @@
 # Robofriends
-Robofriends is frontend only project, using the create-react-app as a starting point.
+Robofriends is a frontend only project, using the create-react-app as a starting point.
 It uses CSS to make a background linear gradient.
 
 
