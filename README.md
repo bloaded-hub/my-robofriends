@@ -23,5 +23,5 @@ A user can filter the list of robots using the searchbar and the list updates in
    * Tachyons for CSS 
    
 # Acknowledgments
-* Thanks to Andrei Neagoie, https://github.com/aneagoie, and his course, https://www.udemy.com/the-complete-web-developer-zero-to-mastery/.
+* Thanks to Andrei Neagoie, @aneagoie, and his course, https://www.udemy.com/the-complete-web-developer-zero-to-mastery/.
 * Also to the Z2M Discord channel for providing additional support.
